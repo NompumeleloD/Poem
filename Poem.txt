@@ -6,4 +6,5 @@ Orange
 Blue
 Red
 Green
-These are the colors of the rainbow.
+Unicorn
+These are the colors of the rainbow and the Unicorn
